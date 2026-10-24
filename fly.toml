@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for retro-game-2 on 2026-10-24T16:11:19Z
+# fly.toml app configuration file generated for retro-game-2-bczeka on 2026-10-24T16:12:57Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'retro-game-2'
+app = 'retro-game-2-bczeka'
 primary_region = 'ams'
 
 [build]
